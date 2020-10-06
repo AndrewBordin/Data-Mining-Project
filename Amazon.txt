@@ -1,0 +1,20 @@
+Milk, Bread, Coffee, Cookie
+Bread, Milk, Cookie, Cheerios
+Bread, Tea, Chips
+Jelly, Croissant, Bread, Milk
+Croissant, Tea, Cookie
+Bread, Tea, Chips
+Croissant, Tea, Cheerios
+Croissant, Bread, Tea, Cookie
+Jelly, Croissant, Bread, Tea
+Bread, Milk
+Coffee, Creamer, Cookie, Cheerios
+Coffee, Creamer, Cookie, Cheerios
+Coffee, Sugar, Chips
+Bread, Coffee, Creamer
+Bread, Sugar, Cookie
+Coffee, Sugar, Cheerios
+Bread, Sugar, Chips
+Bread, Coffee, Sugar
+Bread, Coffee, Sugar
+Tea, Milk, Coffee, Cheerios
